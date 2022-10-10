@@ -20,7 +20,7 @@
 
 ## 模型结构  
 大体结构如下：  
-![image]()  
+![image](https://github.com/JJASMINE22/DMF-GAN/blob/main/samples/model.png)  
 
 ## 注意事项  
 ** 该网络使用birds数据集，并结合文本描述，各批量中的文本长度可能不同(由最长的决定) **  
@@ -38,10 +38,10 @@
 ## 生成效果  
 训练次数不够  
 sample1  
-![image]()  
+![image](https://github.com/JJASMINE22/DMF-GAN/blob/main/samples/latter/sample1.jpg)  
 
 sample2  
-![image]()  
+![image](https://github.com/JJASMINE22/DMF-GAN/blob/main/samples/latter/sample2.jpg)  
 
 ## 参考资料  
 https://arxiv.org/abs/1911.11897  
